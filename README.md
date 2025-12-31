@@ -51,10 +51,6 @@ rules:
     ...
 ```
 
-## Credentials
-- **SSH User**: `user7`
-- **SSH Password**: `p6L2f7Dw`
-- **SSH Command**: `ssh user7@2bcloud.io`
 
 ## Troubleshooting
 Run the verification script to diagnose issues:
